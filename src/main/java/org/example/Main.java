@@ -14,11 +14,8 @@ public class Main {
             IO.println("i = " + i);
         }
         System.out.println("Hello World mama");
-        System.out.println("What is good ?");
+        System.out.println("What is not good?");
+        System.out.println("Jur dund jur yothd");
     }
-    static String getNiggaName(String name){
-        String s = "niggas name is " + name;
-        return s;
-
-    }
+   
 }
