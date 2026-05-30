@@ -16,4 +16,9 @@ public class Main {
         System.out.println("Hello World mama");
         System.out.println("What is good ?");
     }
+    static String getNiggaName(String name){
+        String s = "niggas name is " + name;
+        return s;
+
+    }
 }
