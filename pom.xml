@@ -13,6 +13,9 @@
             <name>silvester</name>
             <organization>dinakido</organization>
         </developer>
+        <developer>
+            <name>Jane Monovsky</name>
+        </developer>
     </developers>
 
     <properties>
