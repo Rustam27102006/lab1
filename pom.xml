@@ -9,13 +9,14 @@
     <version>1.0-SNAPSHOT</version>
     <developers>
         <developer>
+            <name> anna</name>
+        </developer>
+        <developer>
             <id>europe</id>
             <name>silvester</name>
             <organization>dinakido</organization>
         </developer>
-        <developer>
-            <name>Jane Monovsky</name>
-        </developer>
+
     </developers>
 
     <properties>

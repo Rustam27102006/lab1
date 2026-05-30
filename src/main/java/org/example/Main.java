@@ -13,7 +13,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             IO.println("i = " + i);
         }
-        System.out.println("Hello World");
+        System.out.println("Hello World mama");
         System.out.println("What is good ?");
     }
 }
